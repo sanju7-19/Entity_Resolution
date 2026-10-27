@@ -1,0 +1,5 @@
+duckdb
+lightgbm
+numpy
+pandas
+pyarrow
